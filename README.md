@@ -1,6 +1,15 @@
 # 💫 About Me:
 🔭 I’m currently working on enhancing my skills in Full Stack web development and building interactive, user-friendly interfaces using HTML, CSS, JavaScript, and modern frameworks.<br><br>👯 I’m looking to collaborate on exciting web development projects or data visualization dashboards that bring real-world value.<br><br>🤝 I’m looking for help with mastering frameworks like Django and SQL.<br><br>🌱 I’m currently learning Mysql, advanced JavaScript, and exploring some AI Tools.<br><br>💬 Ask me about creating responsive websites, UI/UX design basics, or how to get started with data visualization tools like Power BI.<br><br>⚡ Fun fact: I love turning data into stories and ideas into websites — whether it's coding a slick login page or creating a dashboard that tells a business story!
 
+## 📄 My Resume
+
+Want to know more about my skills and background?  
+👉 [Click here to view/download my resume](https://drive.google.com/file/d/19Inxl4k9HPIc80TxoI8z3N3-FmhxAcmk/view?usp=sharing)
+
+🔹 Highlights:
+- Full Stack Web Developer (HTML, CSS, JS, Power BI, learning-React, Node.js)
+- B.Sc. in Computer Science (9.67 SGPA)
+- Strong project experience: Travel Booking Website, ImagiGen AI
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/PournimaMore) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pournimamore87) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pournimamore) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/pournimamore87) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:morepournima2004@gmail.com) 

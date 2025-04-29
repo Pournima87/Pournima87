@@ -4,7 +4,7 @@
 ## 📄 My Resume
 
 Want to know more about my skills and background?  
-👉 [Click here to view/download my resume](https://drive.google.com/file/d/19Inxl4k9HPIc80TxoI8z3N3-FmhxAcmk/view?usp=sharing)
+👉 [Click here to view/download my resume](https://drive.google.com/file/d/1-cqbU8_iFtry5FmL2jy7B2Fh0WotOVBX/view?usp=sharing)
 
 🔹 Highlights:
 - Full Stack Web Developer (HTML, CSS, JS, Power BI, learning-React, Node.js)

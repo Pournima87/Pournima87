@@ -6,7 +6,11 @@
 Want to know more about my skills and background?  
 👉 [Click here to view/download my resume](https://drive.google.com/file/d/1-cqbU8_iFtry5FmL2jy7B2Fh0WotOVBX/view?usp=sharing)
 
-🔹 Highlights:
+## 🏅 Certifications
+👉 [Click here to view/download my resume](https://drive.google.com/file/d/1d68iygL5fBOTbRPEIjI5RqPPR7C-JA7G/view?usp=sharing)
+
+
+## 🔹 Highlights:
 - Full Stack Web Developer (HTML, CSS, JS, Power BI, learning-React, Node.js)
 - B.Sc. in Computer Science (9.67 SGPA)
 - Strong project experience: Travel Booking Website, ImagiGen AI
